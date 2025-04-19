@@ -49,6 +49,7 @@ residual sum of squares between actual and predicted outputs.
 This involves solving for the slope (m) and intercept (b) using the following formulas:
  
 m = covariance(x, y) / variance(x)
+
 b = mean(y) - m * mean(x)
 
 These values define the regression line used for prediction.
