@@ -1,4 +1,4 @@
-# real_time_stock_predictor
+# Real-Time Stock Predictor
 Hosted Streamlit App URL: https://real-time-stock-predictor.streamlit.app/
 
 ## 1. Project Overview
