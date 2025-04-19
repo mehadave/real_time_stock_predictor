@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 from streamlit_autorefresh import st_autorefresh
 
-st.set_page_config(page_title="📈 Real-Time Stock Price Predictor", layout="centered")
-st.title("📊 Real-Time Stock Price Predictor")
+st.set_page_config(page_title="Real-Time Stock Price Predictor 📈", layout="centered")
+st.title("Real-Time Stock Price Predictor 📊")
 
 # 🔁 Optional: Auto-refresh every 60 seconds
 st_autorefresh(interval=60000, key="auto_refresh")
